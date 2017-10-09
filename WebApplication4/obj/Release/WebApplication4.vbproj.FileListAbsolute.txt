@@ -1,0 +1,10 @@
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Membership\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Membership\WebApplication4\bin\WebApplication4.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Membership\WebApplication4\bin\WebApplication4.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Membership\WebApplication4\bin\WebApplication4.xml
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Membership\WebApplication4\obj\Release\WebApplication4.Resources.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Membership\WebApplication4\obj\Release\WebApplication4.vbproj.GenerateResource.Cache
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Membership\WebApplication4\obj\Release\WebApplication4.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Membership\WebApplication4\obj\Release\WebApplication4.xml
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Membership\WebApplication4\obj\Release\WebApplication4.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Membership\WebApplication4\obj\Release\WebApplication4.vbprojResolveAssemblyReference.cache
